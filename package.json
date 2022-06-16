@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/laloxox/Portafolio/issues"
   },
-  "homepage": "https://github.com/laloxox/Portafolio#readme"
+  "homepage": "https://github.com/laloxox/Portafolio#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
