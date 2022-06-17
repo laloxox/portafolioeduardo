@@ -1,0 +1,23 @@
+{
+  "name": "portafolio-version-1.0",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laloxox/Portafolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laloxox/Portafolio/issues"
+  },
+  "homepage": "https://github.com/laloxox/Portafolio#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
