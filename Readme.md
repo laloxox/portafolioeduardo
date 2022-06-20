@@ -2,7 +2,7 @@
 
 ### Content 
 
-This project is a modified template created by bootstrapmade.
+This project is a modified template created by [bootstrapmade](https://bootstrapmade.com/).
 
 ## Demo
 
