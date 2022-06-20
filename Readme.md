@@ -19,7 +19,8 @@ This site runs on Node.
     git clone https://github.com/laloxox/Portafolio.git
     cd Portafolio-master
     npm install
-    Visual Code - crtl+shift+p  
+    Visual Code - crtl+shift+p
+    Open with live server extension
 
 
 ### Preview
