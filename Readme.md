@@ -1,6 +1,6 @@
 # Portafolio
 
-### Content 
+## Content 
 
 This project is a modified template created by [bootstrapmade](https://bootstrapmade.com/).
 
