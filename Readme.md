@@ -1,6 +1,6 @@
 # Portafolio
 
-### Content 
+## Content 
 
 This project is a modified template created by [bootstrapmade](https://bootstrapmade.com/).
 
@@ -20,7 +20,11 @@ This site runs on Node.
     cd Portafolio-master
     npm install
     Visual Code - crtl+shift+p
+<<<<<<< HEAD
     Open With Live Server Extension  
+=======
+    Open with live server extension
+>>>>>>> 1849b6c0261c5519a925adfeab747b116e55ec6a
 
 
 ### Preview
