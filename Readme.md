@@ -22,9 +22,6 @@ This site runs on Node.
     Visual Code - crtl+shift+p
 
     Open With Live Server Extension  
-=======
-    Open with live server extension
-
 
 
 ### Preview
