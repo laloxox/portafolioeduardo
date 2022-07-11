@@ -6,7 +6,7 @@ This project is a modified template created by [bootstrapmade](https://bootstrap
 
 ## Demo
 
-If you want to see the demo of this project deployed, you can visit:<https://laloxox.github.io/Portafolio/>.
+If you want to see the demo of this project deployed, you can visit:<https://laloxox.github.io/portafolioeduardo/>.
 
 ## Requirements
 
