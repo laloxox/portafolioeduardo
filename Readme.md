@@ -6,7 +6,7 @@ This project is a modified template created by [bootstrapmade](https://bootstrap
 
 ## Demo
 
-If you want to see the demo of this project deployed, you can visit:<https://laloxox.github.io/Portafolio/>.
+If you want to see the demo of this project deployed, you can visit:<https://laloxox.github.io/portafolioeduardo/>.
 
 ## Requirements
 
@@ -20,11 +20,8 @@ This site runs on Node.
     cd Portafolio-master
     npm install
     Visual Code - crtl+shift+p
-<<<<<<< HEAD
+
     Open With Live Server Extension  
-=======
-    Open with live server extension
->>>>>>> 1849b6c0261c5519a925adfeab747b116e55ec6a
 
 
 ### Preview
